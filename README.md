@@ -41,6 +41,19 @@ Necesidades:
 
 --PUBLICO OBJETICO--
 
+![Target Audience_Santiago](https://user-images.githubusercontent.com/114209842/200069539-1364d378-7f1d-4640-ae69-5b6a4084969a.jpg)
+
+![Target Audience_Ximena](https://user-images.githubusercontent.com/114209842/200069677-0c698937-1137-4d40-a6fb-c4d1ad71f3e4.jpg)
+
+![Target Audience_Diego](https://user-images.githubusercontent.com/114209842/200069734-e9ee7a02-dcde-4423-a8df-8f46d2a6c10a.jpg)
+
+![Target Audience_Recap](https://user-images.githubusercontent.com/114209842/200069816-e9003892-5604-4566-b77c-ab041d2d02d7.jpg)
+
+
+--WIREFRAME UX/UI
+
+![Sketching](https://user-images.githubusercontent.com/114209842/200071538-cb445f2e-6f59-478d-a5e9-a6dd7965cb39.jpg)
+
 
 
         
